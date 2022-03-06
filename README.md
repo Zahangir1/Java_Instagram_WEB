@@ -1,5 +1,5 @@
 # Java_POM_Instagram_WEB
-In this project I have automated https://www.instagram.com/ application using Java Selenium and TestNG. Written 20 Test cases including opening the URL, Click and Load, And play all features without any errors.Page Object Model is used, hence I have created separate Page objects.
+In this project I have automated https://www.instagram.com/ application using Java Selenium and TestNG. Written 20 Test cases including opening the URL, Click and Load, And play all features without any errors. Page Object Model is used, hence I have created separate Page objects.
 
 <h4>For Browsering should be follow the instruction needs:</h4> 
 1) Signin first.
